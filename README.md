@@ -1,3 +1,6 @@
+# Full Stack React Project ( AI Finance Platform ) - Next JS, Tailwind, Gemini AI, Prisma, Shadcn UI 🔥
+![wealth](https://github.com/user-attachments/assets/dba3fa9c-3cee-495a-9e26-2b43ac752b26)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
